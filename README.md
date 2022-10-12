@@ -1,5 +1,9 @@
 # dbmateincode
 
+Migrate db using [dbmate](https://github.com/amacneil/dbmate) and embedded migrations.
+
+Could be used as a workaround until dbmate fs.FS support added (see https://github.com/amacneil/dbmate/issues/193).
+
 ## Migrate
 
 ```golang
